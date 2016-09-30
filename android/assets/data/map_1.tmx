@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="500" height="15" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tileset_1" tilewidth="32" tileheight="32" spacing="1" margin="1">
+  <image source="tileset_1.png" width="1024" height="1024"/>
+  <tile id="0">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="31">
+   <properties>
+    <property name="col_id" value="1"/>
+   </properties>
+  </tile>
+  <tile id="32">
+   <properties>
+    <property name="col_id" value="2"/>
+   </properties>
+  </tile>
+  <tile id="33">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="34">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="35">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="36">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="62">
+   <properties>
+    <property name="col_id" value="3"/>
+   </properties>
+  </tile>
+  <tile id="63">
+   <properties>
+    <property name="col_id" value="4"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="col_id" value="5"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="score" value=""/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="goal" value=""/>
+   </properties>
+  </tile>
+  <tile id="124">
+   <properties>
+    <property name="bonus" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="500" height="15">
+  <data encoding="base64" compression="zlib">
+   eJztnVty3CAQRduOH9sgTryOjOOsw2Yj3ruHGlNBuEEw0AKp76m6Xx7x0FTp8BDjNyJ6QxAEQRCFORIz9ufPOfdB/jaUdXvOzUp+R/XF9b5nyjfn/AvK+tHQ1lFw92iP/dCMZQIA0MVMPs958xo+qMznNe4y59wFCV2eKuv967qf9V1YlCHFC13GL8/0f2zTMoZaw9DlXkj2SRuWCQBAFzP5vBZD647s6XNXX+zveJ5/Slz3kPjbCFIedfdKel5u6HIPX6ltfAOWWCYAAF2M9PkTLee6vyquNVTmhV4+9/WtlRO70l235nL3mdq++z73nONK+9zQ8h5u5fTUPTrS+oBlAgDQxdY+D5+hfp23dp/cUJkXXF29fO729J9XyuHa4a47JdoW9qV2jUDChb19Hn7XhvjxkEQ/juTpUiwTAIAu9rjeHrs1tc7tiMcMuffeUng/lDi9di/eO670urANvV0oOT/nxlV+r/6RluszT1S3XqENbrximQAAdLFHnzu813Iul6y31ueGvu8phI57Zf5e0obc2kQtkj5PjcHcO4t+zOXHVSXt0DQHL+mrZQIA0MVefe5IrWVvUW/K6ZyHDPHz8LVzYrnnuMQ8vcXnJc4pHYNt8V4exwxjhGvbYJkAAHQh6XOp5+MMz92U02MPGUqfT289993b6bUeNVT/LqMfg+W+w1E+3zOWCQBAFzPMz+P33K95330E8e/ecHvxsbN7+ty3ode+Q4lHw+9K6nd03Pq75Pn3I2KZAAB0MdrnhtLnwLY4z+Tq58YSXMK2lK4R5HzOvat3jcd67TuUlJM6L3DU+XTvtSCptSXLBACgi5E+N7R+plvS6SX1t7Yl5/PRlLgl/kzqvECv+fQMeyk1zHK23TIBAOhilM8NlbtUwuk19be0pcbne3MZmAfLBACgi9H/2wZBEARBkPZ8AlA1rIc=
+  </data>
+ </layer>
+</map>
